@@ -1,0 +1,2 @@
+print("You have been captured by the name glue-inator!\nYou will now enter your name or perish.")
+print("Your Glued Name is! MWAHAHAHAHA!: " + input("What is your first name? ") + " " + input("What is your last name? "))
